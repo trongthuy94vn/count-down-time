@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/count-down-time/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/count-down-time/static/js/main.21a9e095.chunk.js",
+    "main.js.map": "/count-down-time/static/js/main.21a9e095.chunk.js.map",
+    "runtime-main.js": "/count-down-time/static/js/runtime-main.9a508d6b.js",
+    "runtime-main.js.map": "/count-down-time/static/js/runtime-main.9a508d6b.js.map",
+    "static/js/2.4c3dde18.chunk.js": "/count-down-time/static/js/2.4c3dde18.chunk.js",
+    "static/js/2.4c3dde18.chunk.js.map": "/count-down-time/static/js/2.4c3dde18.chunk.js.map",
+    "index.html": "/count-down-time/index.html",
+    "precache-manifest.c16d2537b87768eff924128d19033d96.js": "/count-down-time/precache-manifest.c16d2537b87768eff924128d19033d96.js",
+    "service-worker.js": "/count-down-time/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/count-down-time/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.4c3dde18.chunk.js.LICENSE": "/count-down-time/static/js/2.4c3dde18.chunk.js.LICENSE",
+    "static/media/bg.jpg": "/count-down-time/static/media/bg.c40d7b88.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9a508d6b.js",
+    "static/js/2.4c3dde18.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.21a9e095.chunk.js"
+  ]
+}
